@@ -1,0 +1,14 @@
+{
+  "name": "with-cors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DeMoorJasper/with-cors.git",
+  "author": "Jasper De Moor <jasperdemoor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.6"
+  }
+}
